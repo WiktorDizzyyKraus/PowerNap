@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /dziekujemy.html
+
+Sitemap: https://powernap.example/sitemap.xml

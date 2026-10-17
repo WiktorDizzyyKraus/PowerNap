@@ -1,0 +1,10 @@
+[
+  { "id": "wa-1", "city": "Warszawa", "name": "Kawiarnia Przykład", "address": "ul. Nowy Świat 10", "lat": 52.2319, "lng": 21.0189, "hours": "7:00–23:00", "slots": 8 },
+  { "id": "wa-2", "city": "Warszawa", "name": "Dworzec Centralny", "address": "al. Jerozolimskie 54", "lat": 52.2289, "lng": 21.0033, "hours": "24/7", "slots": 24 },
+  { "id": "wa-3", "city": "Warszawa", "name": "Galeria Przykładowa", "address": "ul. Złota 59", "lat": 52.2297, "lng": 21.0015, "hours": "9:00–21:00", "slots": 24 },
+  { "id": "kr-1", "city": "Kraków", "name": "Rynek Główny — Café Test", "address": "Rynek Główny 5", "lat": 50.0617, "lng": 19.9373, "hours": "8:00–22:00", "slots": 8 },
+  { "id": "kr-2", "city": "Kraków", "name": "Kraków Główny", "address": "ul. Lubicz 4", "lat": 50.0647, "lng": 19.9450, "hours": "24/7", "slots": 24 },
+  { "id": "wr-1", "city": "Wrocław", "name": "Hotel Przykładowy", "address": "ul. Świdnicka 20", "lat": 51.1079, "lng": 17.0306, "hours": "24/7", "slots": 8 },
+  { "id": "wr-2", "city": "Wrocław", "name": "Wroclavia", "address": "ul. Sucha 1", "lat": 51.0951, "lng": 17.0364, "hours": "9:00–21:00", "slots": 24 },
+  { "id": "gd-1", "city": "Gdańsk", "name": "Długi Targ — Bistro", "address": "Długi Targ 25", "lat": 54.3486, "lng": 18.6534, "hours": "8:00–23:00", "slots": 8 }
+]
